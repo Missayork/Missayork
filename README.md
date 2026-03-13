@@ -5,9 +5,6 @@
 
 **Jalisco, Mexico** · Building things that work in production, not just in theory.
 
-<a href="https://www.linkedin.com/in/edgar-hernandezz/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/>
-</a>
 
 </div>
 
